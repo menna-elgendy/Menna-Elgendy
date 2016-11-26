@@ -1,5 +1,5 @@
 #How to run the file 
-#The final project file is called FinalCheckersProject.py. Then there are 4 image files that have to be downloaded. 
+#The final project file is called FinalCheckersProject.py. There are extra 4 image files that have to be downloaded. 
 #1) PLAYER.gif 2) EXIT.gif 3)PLAYERS.gif 4)Mainmenu.gif
 #The path for the 4 images will have to be modfied for the main menu to show up -Lines 922 to 925-.
 #Libraries used were Tkinter and pygame.
