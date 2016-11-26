@@ -12,6 +12,7 @@
 #In 2 players, you can make as many jumps as you want as long as they are all valid
 #In 1 Player; however, you can make a maximum of 2 jumps, as that is the maximum jumps the computer is programmed to make
 #King pieces will have a smaller black circle inside the original piece and they can move forwards and backwards
+#If there are further possible jumps , the piece will remain highlighted and the player is not switched unless you make all possible moves.
 
 #Winning conditions assumed:
 
@@ -19,6 +20,6 @@
 #2) If one piece is left for one player and the other has three pieces or more left, the one with the three pieces or more wins as it might take so long to just try to excape and in the end its most likely that this piece will be removed
 #3) If all pieces of one player are stuck and he has no valid moves, the other player wins
 
-#In case of winning a message shows up for three seconds saying who won and then the game quits
+#In case of winning a message shows up for three seconds saying who won and then the game quits.
 
  
